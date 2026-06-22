@@ -26,13 +26,13 @@ Le notebook `Projet2_Classification_Riz.ipynb` détaille les étapes suivantes :
     - K-Nearest Neighbors (KNN)
     - Support Vector Machine (LinearSVC)
     - Random Forest
-6.  **Évaluation des modèles** à l'aide de métriques comme l'accuracy, la précision, le rappel, le F1-score et les matrices de confusion.
+6.  **Évaluation des modèles** à l'aide de métriques comme l'accuracy, precision, recall, le F1-score et les matrices de confusion.
 
 ## Résultats
 
 Le projet démontre qu'il est possible d'atteindre une excellente performance de classification, avec des modèles comme le Random Forest obtenant une accuracy très élevée, validant ainsi l'approche d'automatisation du tri.
 
-## ⚙️ Comment utiliser
+## Comment utiliser
 
 1.  Clonez le dépôt.
 2.  Installez les dépendances : `pip install -r requirements.txt`
